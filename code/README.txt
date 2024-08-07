@@ -1,1 +1,1 @@
-Only the experimental results are given for now, and the specific code is given subsequently.
+DCG-Net: Enhanced Hyperspectral Image Classification with Dual-Branch CNN and GCN Integration.
